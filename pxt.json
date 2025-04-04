@@ -9,7 +9,9 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "custom.ts"
+        "custom.ts",
+        "建造水電梯.md",
+        "建造大型水電梯.md"
     ],
     "testFiles": [
         "test.ts"
