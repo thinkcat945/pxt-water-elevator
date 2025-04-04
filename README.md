@@ -1,4 +1,6 @@
 
+![Alt text](./screen.png)
+
 > 在 [https://thinkcat945.github.io/pxt-water-elevator/](https://thinkcat945.github.io/pxt-water-elevator/) 打開此頁面
 
 ## 作為擴充功能使用
