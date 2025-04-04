@@ -12,15 +12,15 @@ enum MyEnum {
 /**
  * Custom blocks
  */
-//% weight=100 color=#0fbc11 icon=""
+//% weight=100 color=#2994e4 icon=""
 namespace 水電梯 {
     /**
      * 建造基本水電梯
      * @param height 設定高度, eg: 5
      */
     //% block
-    export function 建造水電梯(height:number) :void{
-        mkwe(1,height)
+    export function build(height:number) :void{
+        mkwe(1, height)
     }
 
     /**
@@ -29,8 +29,8 @@ namespace 水電梯 {
      * @param height 設定高度, eg: 5
      */
     //% block
-    export function 建造大型水電梯(width:number, height:number) :void{
-        mkwe(width,height)
+    export function buildX(width:number, height:number) :void{
+        mkwe(width, height)
     }
 }
 
