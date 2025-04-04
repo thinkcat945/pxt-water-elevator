@@ -16,21 +16,21 @@ enum MyEnum {
 namespace 水電梯 {
     /**
      * 建造基本水電梯
-     * @param 高 設定高度, eg: 5
+     * @param height 設定高度, eg: 5
      */
     //% block
-    export function 建造水電梯(高:number) :void{
-        mkwe(1,高)
+    export function 建造水電梯(height:number) :void{
+        mkwe(1,height)
     }
 
     /**
      * 建造任意大小的水電梯
-     * @param 寬 設定寬度, eg: 5
-     * @param 高 設定高度, eg: 5
+     * @param width 設定寬度, eg: 5
+     * @param height 設定高度, eg: 5
      */
     //% block
-    export function 建造大型水電梯(寬:number, 高:number) :void{
-        mkwe(寬,高)
+    export function 建造大型水電梯(width:number, height:number) :void{
+        mkwe(width,height)
     }
 }
 
