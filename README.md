@@ -1,6 +1,6 @@
 ## Microsoft MakeCode for 水電梯
 
-<img src='./screen.png'>
+<img src='./icon.png'>
 
 > 在 [https://thinkcat945.github.io/pxt-water-elevator/](https://thinkcat945.github.io/pxt-water-elevator/) 打開此頁面
 
