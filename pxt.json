@@ -10,8 +10,8 @@
         "main.ts",
         "README.md",
         "custom.ts",
-        "建造水電梯.md",
-        "建造大型水電梯.md"
+        "build.md",
+        "buildX.md"
     ],
     "testFiles": [
         "test.ts"
